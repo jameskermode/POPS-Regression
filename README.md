@@ -1,4 +1,7 @@
 # POPSRegression
+
+**!! THIS FORK IS FOR Python 3.9 / sklearn 1.3 compatbility ONLY - do not use otherwise !!**
+
 Linear regression scheme from the paper 
 
 *Parameter uncertainties for imperfect surrogate models in the low-noise regime*
